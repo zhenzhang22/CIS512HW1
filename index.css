@@ -1,0 +1,116 @@
+#Inputbox1{
+    border: 1px solid #000;
+    width: 400px;
+    margin: 2px;
+    position:absolute; left:220px; height:25px ;top:42px
+}
+
+#Inputbox2{
+    border: 1px solid #000;
+    width: 400px;
+    margin: 2px;
+    position:absolute; left:220px; height:25px ;top:80px
+}
+
+#Inputbox3{
+    border: 1px solid #000;
+    width: 400px;
+    margin: 2px;
+    position:absolute; left:220px; height:25px ;top:120px
+}
+
+#Destination{
+    width: 25px;
+    height: 50px; 
+    position:absolute; left:190px; height:25px ;top:125px
+}
+
+#Stop1{
+    width: 25px;
+    height: 2px; 
+    position:absolute; left:190px; height:25px ;top:85px
+}
+
+#Stop2{
+    width: 25px;
+    height: 2px; 
+    position:absolute; left:190px; height:25px ;top:46px
+}
+
+#NavigationBar{
+    width: 550px;
+    position:absolute;
+    top:150px;
+    left: 170px;
+}
+
+#Map{
+    width: 542px;
+    position:absolute;
+    top:210px;
+    left: 170px;
+}
+
+#Options{
+    width: 40px;
+    height:10px ;
+    margin: 1px;
+    position:absolute; left:640px; top:50px
+}
+
+#Delete{
+    position:absolute; left:650px; top:85px
+}
+
+#RouteWeatherButton{
+    position:absolute; 
+    left: 175px; 
+    top:220px;
+    width: 300px;
+}
+
+#timeinfo{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    position:absolute;
+    left: 175px; 
+    top:830px;
+}
+
+#arrivalInfo{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    position:absolute;
+    left: 520px; 
+    top:830px;
+}
+
+#weatherSummary{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    position:absolute;
+    left: 175px; 
+    top:870px;
+    color: #FF8C00;
+}
+
+#Start_button{
+    width:150px;
+    position:absolute; left:185px; top: 910px;
+}
+
+#PlanButton{
+    width:150px;
+    position:absolute; left:355px; top: 910px;
+}
+
+#OptionsButton{
+    width:150px;
+    position:absolute; left:530px; top: 910px;
+}
+
+#PhoneOutLine{
+    width: 550px;
+    Height: 1000px;
+    position:absolute; left:165px; top: 0px;
+}
